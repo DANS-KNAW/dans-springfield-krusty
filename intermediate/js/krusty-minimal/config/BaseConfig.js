@@ -1,1 +1,0 @@
-define([],function(){var a={};a.baseURI="http://streaming11.dans.knaw.nl";return a});
